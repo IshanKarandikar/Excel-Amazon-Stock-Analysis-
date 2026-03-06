@@ -19,13 +19,13 @@ This project analyzes **28 years of Amazon stock data (1997–2025)** using Micr
 
 ## Dashboard Preview
 
-![Dashboard](Images/Screenshot%202026-03-05%20161333.png)
+![Dashboard](Images/Screenshot%202026-03-05%20162809.png)
 
 ---
 
 ## Pivot Table
 
-![Pivot Table](Images/Screenshot%202026-03-05%20162809.png)
+![Pivot Table](Images/Screenshot%202026-03-05%20161333.png)
 
 ---
 
